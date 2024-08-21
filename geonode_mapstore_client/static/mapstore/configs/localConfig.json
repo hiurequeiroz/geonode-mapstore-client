@@ -110,7 +110,12 @@
         "es": {
             "code": "es-ES",
             "description": "Español"
+        },
+        "pt": {
+            "code": "pt-BR",
+            "description": "Portuguese"
         }
+
     },
     "mapType": {
         "defaultVisualizationMode": "2D",
